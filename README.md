@@ -83,12 +83,13 @@ www.google.com
 [google]: www.google.com
 
 ## Image
-<!-- ![Profile](./images/profile.jpg)-->
+![Profile](/images/profile.jpg)
 
-<img src="./images/profile.JPG">
+<!-- <img src=".\images\profile.JPG">-->
+## emoji
 🔥
 
-## Table markdown syntax
+## Table mark down syntax
 | Name  | Email              |
 |-------|--------------------|
 | Habib | habib905@gmail.com |
