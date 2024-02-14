@@ -83,7 +83,6 @@ www.google.com
 [google]: www.google.com
 
 ## Image
-<!-- ![Profile](./images/profile.jpg)-->
 
 <img src="./images/profile.JPG">
 🔥
