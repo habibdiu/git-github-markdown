@@ -83,7 +83,10 @@ www.google.com
 [google]: www.google.com
 
 ## Image
+<<<<<<< HEAD
 ![Profile](/images/profile.jpg)
+=======
+>>>>>>> d8407c81646d6a49791480fb005849336356fd20
 
 <!-- <img src=".\images\profile.JPG">-->
 ## emoji
